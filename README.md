@@ -1,4 +1,5 @@
 html-starter
 ============
 
-An introductory project for Cooper Union
+The purpose of this starter project is to get familiar with git, Github,
+and tags simultaneously.
